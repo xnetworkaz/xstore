@@ -2,26 +2,31 @@
   {
     "ID": "1001",
     "Name": "Carrillo Auto Parts Recycling LLC",
-    "Status": Online
+    "Status": "Online"
+    "Link": "https://google.com"
   },
   {
     "ID": "1002",
     "Name": "Best Auto Wrecking",
-    "Status": Online
+    "Status": "Online"
+    "Link": "https://google.com"
   },
   {
     "ID": "1003",
     "Name": "Matador Auto Parts",
-    "Status": Offline
+    "Status": "Online"
+    "Link": "https://google.com"
   },
   {
     "ID": "1004",
     "Name": "X Network LLC",
-    "Status": Online
+     "Status": "Online"
+    "Link": "https://google.com"
    },
   {
     "ID": "1005",
     "Name": "M&C Auto Wrecking",
-    "Status": Offline
+    "Status": "Online"
+    "Link": "https://google.com"
   }
 ]
